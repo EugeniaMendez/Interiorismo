@@ -1,2 +1,2 @@
 # Interiorismo
-Pagina web estática diseñada para Alonso (diseño de interiores)
+Pagina web estática diseñada para Alonso Interiorismo (diseño de interiores)
